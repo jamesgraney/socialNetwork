@@ -1,5 +1,3 @@
-import User from './User.js';
-import Response from './Response.js';
-import Video from './Video.js';
+import Department from './Department.js';
 
-export { User, Video, Response };
+export { Department };
